@@ -15,7 +15,7 @@ on:
 
 jobs:
   build-push:
-    if: github.repository == 'arthurgeek/vaultwarden-fly-template'
+    if: github.repository == 'rust84/vaultwarden-fly-template'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
