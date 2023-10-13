@@ -9,6 +9,7 @@
     ":enablePreCommit",
     ":automergeDigest",
     ":automergeBranch",
+    ":assignAndReview(rust84)",
     "github>rust84/vaultwarden-fly-template//.github/renovate/autoMerge.json5",
     "github>rust84/vaultwarden-fly-template//.github/renovate/commitMessage.json5",
     "github>rust84/vaultwarden-fly-template//.github/renovate/labels.json5",
