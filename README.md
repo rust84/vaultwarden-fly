@@ -204,5 +204,4 @@ That's all! Now, any changes to your `Dockerfile`, `fly.toml` or
 
 [Vaultwarden]: https://github.com/dani-garcia/vaultwarden
 [Fly.io]: https://fly.io
-[websockets]: https://github.com/dani-garcia/vaultwarden/wiki/Enabling-WebSocket-notifications
 [fly.toml]: fly.toml
