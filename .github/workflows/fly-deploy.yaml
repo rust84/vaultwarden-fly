@@ -37,7 +37,7 @@ jobs:
       - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
       - uses: superfly/flyctl-actions/setup-flyctl@master
       - name: Install Task
-        uses: arduino/setup-task@v1
+        uses: arduino/setup-task@b91d5d2c96a56797b48ac1e0e89220bf64044611 # v2.0.0
         with:
           # renovate: datasource=github-releases depName=go-task/task
           version: 3.27.1
